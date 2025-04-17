@@ -23,3 +23,7 @@ Each folder inside is a small build, challenge, or idea brought to life using th
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+## 🚀✨ Project List
+1. 🧮 Calculator ->	A basic calculator that supports operations and keyboard input
+2. Next Launch Loading….......................
