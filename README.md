@@ -26,6 +26,6 @@ Each folder inside is a small build, challenge, or idea brought to life using th
 
 ## 🚀✨ Project List
 1. 🧮 Calculator ->	A basic calculator that supports operations and keyboard input
-2. 🧩 Drag and Drop -> Built an interactive Drag and Drop interface using pure HTML, CSS, and JavaScript—no libraries, just logic.
-3. 🔊 Developed a Text-to-Speech web app using HTML, CSS, and JavaScript—turning written words into spoken voice in one click!
+2. 🧩 Drag and Drop -> Built an interactive Drag and Drop interface..—no libraries, just logic.
+3. 🔊 Text-to-Speech Converter -> Developed a Text-to-Speech convertor, turning written words into spoken voice in one click!
 4. Next Launch Loading….......................
