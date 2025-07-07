@@ -8,6 +8,12 @@ This is my personal playground — a place to practice, experiment, and grow as 
 Each folder inside is a small build, challenge, or idea brought to life using the core web technologies.
 
 ---
+## 🚀✨ Project List
+1. 🧮 Calculator ->	A basic calculator that supports operations and keyboard input
+2. 🧩 Drag and Drop -> Built an interactive Drag and Drop interface..—no libraries, just logic.
+3. 🔊 Text-to-Speech Converter -> Developed a Text-to-Speech converter, turning written words into spoken voice in one click!
+4. Next Launch Loading….......................
+
 
 ## 🛠️ What's Inside
 
@@ -23,9 +29,3 @@ Each folder inside is a small build, challenge, or idea brought to life using th
 - **HTML**
 - **CSS**
 - **JavaScript**
-
-## 🚀✨ Project List
-1. 🧮 Calculator ->	A basic calculator that supports operations and keyboard input
-2. 🧩 Drag and Drop -> Built an interactive Drag and Drop interface..—no libraries, just logic.
-3. 🔊 Text-to-Speech Converter -> Developed a Text-to-Speech convertor, turning written words into spoken voice in one click!
-4. Next Launch Loading….......................
